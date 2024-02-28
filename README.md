@@ -1,4 +1,4 @@
-<h1 align="center">Olá!👋, Eu sou Antônio Irineu</h1>
+<h1 align="center">Olá👋, Eu sou Antônio Irineu</h1>
 <h3 align="center">Um estudante de programação cursando Tecnologia em Análise e Desenvolvimento de Sistemas</h3>
 
 - 🌱 Aprendendo atualmente **Python, HTML5 e CSS3**
