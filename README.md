@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antchan2911" alt="antchan2911" /></a> </p>
 
-- 🌱 Aprendendo atualmente **Python, HTML5 e CSS3**
+- 🌱 Aprendendo atualmente **Python, Java, Assembly, C, HTML5 e CSS3**
 
 - 📫 Para contato **antonioirineu92@gmail.com**
 
