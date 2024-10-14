@@ -1,0 +1,18 @@
+// cmd
+
+dir -> verifica o diretório atual
+cd pasta -> entra na pasta
+cd .. -> sai da pasta
+cls -> limpa o terminal
+
+// git
+
+winget install --id Git.Git -e --source winget -> instala o git
+git clone https://github.com/antchan2911/REPOSITORIO.git -> clona o repositório para o diretório especificado
+git add . -> adiciona todos os arquivos da pasta
+git add arquivo.ext -> adiciona o arquivo especifico
+git commit -m "mensagem" -> salva a versão
+git push -> sobe a versão para o repositório no GitHub
+git fetch origin -> verifica/atualiza o estado dos arquivos em comparação com o diretório
+git pull -> atualiza o diretório local conforme o repositório 
+git status -> mostra o estado dos arquivos
