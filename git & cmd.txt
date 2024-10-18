@@ -16,3 +16,4 @@ git push -> sobe a versão para o repositório no GitHub
 git fetch origin -> verifica/atualiza o estado dos arquivos em comparação com o diretório
 git pull -> atualiza o diretório local conforme o repositório 
 git status -> mostra o estado dos arquivos
+git branch -M main -> especifica o branch que os arquivos vão
