@@ -17,3 +17,9 @@ git fetch origin -> verifica/atualiza o estado dos arquivos em comparação com 
 git pull -> atualiza o diretório local conforme o repositório 
 git status -> mostra o estado dos arquivos
 git branch -M main -> especifica o branch que os arquivos vão
+git stash -> guarda temporariamente em um espaço separado alterações que você não deseja commitar(útil quando você quer dar um pull mas ainda tem alterações que você não subiu no repositório local)
+git stash drop -> apaga essas alterações guardadas
+git stash pop -> recupera a última alteração armazenada
+git stash apply -> recupera um commit especifico
+git stash list -> mostra uma lista das alterações guardadas
+
