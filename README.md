@@ -14,6 +14,7 @@
 <a href="https://instagram.com/antonioirfilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonioirfilho" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioIrineuFilho&show_icons=true&locale=en" alt="AntonioIrineuFilho" height="200" width="400"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioIrineuFilho&" alt="AntonioIrineuFilho" height="200" width="400"></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AntonioIrineuFilho&show_icons=true&locale=en" alt="AntonioIrineuFilho" width="406"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioIrineuFilho&" alt="AntonioIrineuFilho" width="430">
+</div>
