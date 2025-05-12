@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioIrineuFilho&label=Profile%20views&color=0e75b6&style=flat" alt="AntonioIrineuFilho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntonioIrineuFilho" alt="AntonioIrineuFilho" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntonioIrineuFilho&theme=dracula&column=-1" alt="AntonioIrineuFilho" /></a> </p>
 
 - 🌱 Aprendendo atualmente **Python, Java, Assembly, C, HTML5 e CSS3**
 
