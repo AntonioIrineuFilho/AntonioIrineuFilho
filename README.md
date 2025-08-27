@@ -1,20 +1,34 @@
-<h1 align="center">Olá 👋, Eu sou Antônio Irineu</h1>
-<h3 align="center">Um estudante de programação cursando Tecnologia em Análise e Desenvolvimento de Sistemas</h3>
+## Welcome to my profile 🫰
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioIrineuFilho&label=Profile%20views&color=0e75b6&style=flat" alt="AntonioIrineuFilho" /> </p>
+**Técnico em Informática formado no CEEP Professora Lourdinha Guerra e atualmente cursando graduação em Análise e Desenvolvimento de Sistemas pelo IFRN.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntonioIrineuFilho&theme=dracula&column=-1" alt="AntonioIrineuFilho" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=AntonioIrineuFilho&label=Profile%20views&color=0e75b6&style=flat" alt="AntonioIrineuFilho" />
 
-- 🌱 Aprendendo atualmente **Python, Java, Assembly, C, HTML5 e CSS3**
+### Tecnologias
 
-- 📫 Para contato **antonioirineu92@gmail.com**
+**Frontend**
 
-<h3 align="left">Redes Sociais:</h3>
-<p align="left">
-<a href="https://instagram.com/antonioirfilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonioirfilho" height="30" width="40" /></a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Fullstack**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antônio-irineu-filho-09a88a349)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonioirineu92@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/antonioirfilho)
+
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AntonioIrineuFilho&show_icons=true&locale=en&theme=dracula" alt="AntonioIrineuFilho" width="406"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioIrineuFilho&theme=dracula" alt="AntonioIrineuFilho" width="430">
 </div>
